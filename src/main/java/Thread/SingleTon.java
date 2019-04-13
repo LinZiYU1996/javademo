@@ -8,6 +8,8 @@ package Thread;
  *
  * @Date 16:36 2019/4/13
  **/
+
+
 public class SingleTon {
 
     //使用volatile是为了JVM的指令重排
